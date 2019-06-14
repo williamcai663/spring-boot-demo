@@ -4,4 +4,5 @@ import org.aspectj.lang.annotation.Aspect;
 
 @Aspect
 public class OperateLogAspect {
+    private String test;
 }
