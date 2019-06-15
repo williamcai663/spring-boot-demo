@@ -6,5 +6,6 @@ import org.aspectj.lang.annotation.Aspect;
 public class OperateLogAspect {
 
     private  String featureCommand;
+    private  String test1;
     private String test;
 }
