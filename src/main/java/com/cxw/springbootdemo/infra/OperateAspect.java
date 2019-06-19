@@ -3,7 +3,7 @@ package com.cxw.springbootdemo.infra;
 import org.aspectj.lang.annotation.Aspect;
 
 @Aspect
-public class OperateLogAspect {
+public class OperateAspect {
 
     private  String featureCommand;
 	private  String testCon;
