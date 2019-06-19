@@ -10,4 +10,7 @@ public class OperateLogAspect {
 	private  String myCan;
     private  String test1;
     private String test;
+
+    private String yesWecan;
+
 }
